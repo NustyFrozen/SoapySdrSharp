@@ -9,5 +9,8 @@ This repository contains:
   - [SoapyAirspy](https://github.com/pothosware/SoapyAirspy) (airspySupport.dll)
   - [SoapyRTLSDR](https://github.com/pothosware/SoapyRTLSDR) (rtlsdrSupport.dll)
   - [SoapySDRPlay3](https://github.com/pothosware/SoapySDRPlay3) (sdrplaySupport.dll)
+  - [SoapyUHD](https://github.com/pothosware/SoapyUHD) (uhdSupport.dll)
+  - [SoapyLMS7](https://github.com/myriadrf/LimeSuite) (LMS7Support.dll)
+  - [SoapyHackrf](https://github.com/pothosware/SoapyHackRF) (HackRFSupport.dll)
 - a C# utility that enumerates the SoapySDR devices and retrieves all available information about them;
 - an [example output](ExampleOutput.json) of the utility for Airspy, RTL-SDR and SDRplay.
